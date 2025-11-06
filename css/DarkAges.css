@@ -205,12 +205,11 @@ main{
 }
 
 #linksnav :hover{
-    background-color: var(--rojote);
     color: var(--rojo);
 }
 #linksnav :focus{
     background-color: var(--rojote);
-    color: var(--verde);
+    color: var(--blanco);
 }
 
 .boton{
@@ -999,3 +998,4 @@ main{
 
 
 }
+
