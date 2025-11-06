@@ -646,7 +646,7 @@ main{
     
     .compra{
         width: 100%;
-        height: 60rem;
+        height: 100rem;
         background-image: url(../img/infierno.jpg);
         background-size: cover;
         background-position: center;
@@ -748,7 +748,7 @@ main{
     }
 }
 
-@media (max-width: 425px){
+@media (max-width: 375px){
     .textos{
         font-family: 'DOOM 2016 Left', sans-serif;
         letter-spacing: 0.8rem;
@@ -762,7 +762,7 @@ main{
     }
     .textos2{
         font-size: 5rem;
-        margin-left: 2rem;
+        margin-left: 1rem;
         padding-top: 4rem;
     }
     .img{
@@ -861,7 +861,8 @@ main{
         flex-direction: column;
         text-align: center;
         padding-bottom: 5rem;
-        width: 28rem;
+        width: 27rem;
+        margin-left: 5rem;
     }
     
     .historia{
@@ -888,7 +889,7 @@ main{
     
     .compra{
         width: 100%;
-        height: 60rem;
+        height: 90rem;
         background-image: url(../img/infierno.jpg);
         background-size: cover;
         background-position: center;
@@ -998,6 +999,7 @@ main{
 
 
 }
+
 
 
 
