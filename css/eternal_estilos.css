@@ -322,7 +322,8 @@ footer{
         background-position: right;
         
     }
-    header >div > h1{
+
+    header >div >h1{
         font-size: 15rem;
         text-align: center;
         left: 0rem;
@@ -361,6 +362,17 @@ footer{
     }
 }
 @media (max-width:767px){
+
+    header div {
+        width: 100%;
+        background-image: url(../img/titulo.jpg);
+        background-position: right;
+    }
+    header div h1{
+        font-size: 13rem;
+        left: 0rem;
+        
+    }
     .parrafo{
         margin: 0rem;
         width: 100%;
@@ -372,6 +384,10 @@ footer{
     .historia{
         height: 110rem;
     }
+    .historia{
+        height: 150rem;
+    }
+
 }
 @media (max-width:425px){
     header >div{
@@ -380,7 +396,7 @@ footer{
         background-position: center;
     }
     header div h1{
-        font-size: 14rem;
+        font-size: 11rem;
         left: 0rem;
     }
     nav{
@@ -401,7 +417,7 @@ footer{
         height: 120rem;
     }
     .historia{
-        height: 160rem;
+        height: 180rem;
     }
 }
 @media (max-width: 320px){
@@ -482,6 +498,5 @@ footer{
     #phistoria{
     height: 86rem;
     }
-
 
 }
