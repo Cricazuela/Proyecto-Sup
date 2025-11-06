@@ -88,6 +88,7 @@ html, body {
 
 .cajacompra > p{
     text-align: center;
+    width: 35.5rem;
 } 
 
 header > div{
@@ -498,5 +499,6 @@ footer{
     #phistoria{
     height: 86rem;
     }
+
 
 }
