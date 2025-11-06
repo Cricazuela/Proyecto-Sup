@@ -255,6 +255,10 @@ main{
     padding-top:1.7rem ;
     text-align: start;
 }
+#parrafohistoria{
+    background-color: #960c0c9a;
+    border: 0.3rem solid var(--rojo);
+}
 
 @media (max-width: 1024px) {
     .textos{
@@ -994,5 +998,6 @@ main{
 
 
 }
+
 
 
