@@ -322,7 +322,7 @@ footer{
         background-position: right;
         
     }
-    div h1{
+    header >div > h1{
         font-size: 15rem;
         text-align: center;
         left: 0rem;
@@ -482,5 +482,6 @@ footer{
     #phistoria{
     height: 86rem;
     }
+
 
 }
